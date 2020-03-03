@@ -1,0 +1,22 @@
+.header {
+  background: #444444;
+  width: 100vw;
+  height: 15vh;
+}
+body {
+  background: #d8d8d8;
+  width: 100vw;
+  height: 100vh;
+}
+.content {
+  background: #efefef;
+  width: 70%;
+  height: 80vh;
+  margin: 0vh 15%;
+}
+.footer {
+  background: #222222;
+  width: 70%;
+  height: 15vh;
+  margin: 0vh 15%;
+}
