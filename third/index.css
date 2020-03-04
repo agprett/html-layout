@@ -1,0 +1,43 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  width: 100%;
+  height: 100px;
+}
+
+.header {
+  background: #d8d8d8;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+.profile {
+  background: #4a90e2;
+  width: 50px;
+  height: 50px;
+}
+
+.paragraph {
+  padding: 50px;
+  height: 200px;
+  box-sizing: border-box;
+}
+
+.best-color {
+  background: #4a90e2;
+}
+
+.bleh {
+  background: #50e3c2;
+}
+
+.bleh-2 {
+  background: #b8e986;
+}
+
+.yella {
+  background: #f8e71b;
+}
